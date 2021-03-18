@@ -36,6 +36,9 @@ Software
 
   :round_pushpin: [C0.3 Diagrama de flujo del proceso](Blog/C0.3_DiagramadeFlujo_Proceso_Hector_Renteria.md)
 
+  :busts_in_silhouette: [A0.1 Recopilación Entrevista](Blog/A0.1-RecopilacionEntrevista_Hector_Renteria.md)
+  
+
 
   
 
