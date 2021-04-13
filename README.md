@@ -24,7 +24,7 @@ Software
 # :books: Unidad 1
 
 
-*Carpeta Docs*
+
 
 
 *Carpeta Blog*
@@ -36,11 +36,16 @@ Software
 
   :round_pushpin: [C0.3 Diagrama de flujo del proceso](Blog/C0.3_DiagramadeFlujo_Proceso_Hector_Renteria.md)
 
-  :busts_in_silhouette: [A0.1 Recopilación Entrevista](Blog/A0.1-RecopilacionEntrevista_Hector_Renteria.md)
+*Carpeta Docs*
+
+  :busts_in_silhouette: [A0.1 Recopilación Entrevista](Docs/A0.1-RecopilacionEntrevista_Hector_Renteria.md)
 
   # :books: Unidad 2
 
-  :round_pushpin: [C1.1 ObjetivosGenerales especificos.md](Blog/C1.1_ObjetivosGenerales_especificos_Hector_Renteria.md)
+  :round_pushpin: [C1.1 ObjetivosGenerales especificos](Blog/C1.1_ObjetivosGenerales_especificos_Hector_Renteria.md)
+
+  :round_pushpin: [C1.2 Acta Constitutiva del Proyecto](Blog/C1.2_Acta_Constitutiva_del_Proyecto_Hector_Renteria.md)
+  
   
 
 
