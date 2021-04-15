@@ -46,7 +46,8 @@ Software
 
   :round_pushpin: [C1.2 Acta Constitutiva del Proyecto](Blog/C1.2_Acta_Constitutiva_del_Proyecto_Hector_Renteria.md)
   
-  
+  :round_pushpin: [C1.3 Requisitos del sistema](Blog/C1.3_Requisitos_del_sistema_Hector_Renteria.md)
+   
 
 
   
