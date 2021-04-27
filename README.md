@@ -48,6 +48,8 @@ Software
   
   :round_pushpin: [C1.3 Requisitos del sistema](Blog/C1.3_Requisitos_del_sistema_Hector_Renteria.md)
 
+  :round_pushpin: [C1.5 UML Estado componentes distribucion](Blog//C1.5_UML_Estado_componentes_distribucion_Hector_Renteria.md)
+
 *Carpeta Docs*
 
   :busts_in_silhouette: [A1.0 Consolidacion del acta constitutiva](Docs/A1.0_Consolidation-of-the-articles-of-incorporation_Hector_Renteria.md)
