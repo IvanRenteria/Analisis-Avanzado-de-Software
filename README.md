@@ -54,6 +54,8 @@ Software
 
   :busts_in_silhouette: [A1.0 Consolidacion del acta constitutiva](Docs/A1.0_Consolidation-of-the-articles-of-incorporation_Hector_Renteria.md)
 
+  :busts_in_silhouette: [A1.1Modelado Requisitos UML.md](Docs/A1.1Requirements-modeling-through-UML-diagrams_Hector_Renteria_Zerox.md)
+
 
   
 
