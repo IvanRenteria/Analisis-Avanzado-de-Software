@@ -42,6 +42,8 @@ Software
 
   # :books: Unidad 2
 
+*Carpeta Blog*
+
   :round_pushpin: [C1.1 ObjetivosGenerales especificos](Blog/C1.1_ObjetivosGenerales_especificos_Hector_Renteria.md)
 
   :round_pushpin: [C1.2 Acta Constitutiva del Proyecto](Blog/C1.2_Acta_Constitutiva_del_Proyecto_Hector_Renteria.md)
@@ -60,9 +62,13 @@ Software
 
 # :books: Unidad 3
 
+*Carpeta Blog*
+
   :round_pushpin: [C2.1 Especificacion Requerimientos Funcionales](Blog/C2.1_EspecificacionRequerimientos_Funcionales_Hector_Renteria.md)
 
-  
+  *Carpeta Docs*
+
+  :busts_in_silhouette: [A2.1 Especificacion de requisitos y documentacion](Docs/A2.1_Specification-of-requirements-and-documentation_Hector_Renteria_Zerox.md)
 
 
 
