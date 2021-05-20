@@ -70,5 +70,7 @@ Software
 
   :busts_in_silhouette: [A2.1 Especificacion de requisitos y documentacion](Docs/A2.1_Specification-of-requirements-and-documentation_Hector_Renteria_Zerox.md)
 
+  :busts_in_silhouette: [A2.2 Diseño de la arquitectura_4+1](Docs/A2.2-Design-of-the-41-architecture_Hector_Renteria_Zerox.md)
+
 
 
