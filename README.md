@@ -72,5 +72,7 @@ Software
 
   :busts_in_silhouette: [A2.2 Diseño de la arquitectura_4+1](Docs/A2.2-Design-of-the-41-architecture_Hector_Renteria_Zerox.md)
 
+  :busts_in_silhouette: [A2.3 Patrones de arquitectura de software](Docs/A2.3_Software_Architecture_Patterns_Hector_Renteria_Zerox.md)
+
 
 
