@@ -76,5 +76,8 @@ Software
 
   :busts_in_silhouette: [A3.1 Documentacion Scrum Fase Inicio](Docs/A3.1_StartPhaseScrum_Project_Vision_Statement_Hector_Renteria_Zerox.md)
 
+  :busts_in_silhouette: [A3.2 Fase Inicio y sus artefactos ](Docs/A3.2_Initiation_Phase_Artifacts_Hector_Renteria_Zerox.md)
+
+
 
 
