@@ -74,9 +74,17 @@ Software
 
   :busts_in_silhouette: [A2.3 Patrones de arquitectura de software](Docs/A2.3_Software_Architecture_Patterns_Hector_Renteria_Zerox.md)
 
+
+# :books: Unidad 3
+
+  *Carpeta Docs*
+  
   :busts_in_silhouette: [A3.1 Documentacion Scrum Fase Inicio](Docs/A3.1_StartPhaseScrum_Project_Vision_Statement_Hector_Renteria_Zerox.md)
 
   :busts_in_silhouette: [A3.2 Fase Inicio y sus artefactos ](Docs/A3.2_Initiation_Phase_Artifacts_Hector_Renteria_Zerox.md)
+
+  :busts_in_silhouette: [A3.3 Arquitectura usando Modelo C4](Docs/A3.3-Software-Architecture-through-the-C4-Model_Hector_Renteria_Zerox.md)
+
 
 
 

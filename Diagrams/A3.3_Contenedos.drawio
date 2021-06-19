@@ -1,0 +1,69 @@
+<mxfile>
+    <diagram id="T_lSb3cauGes9hz3-7Gt" name="Page-1">
+        <mxGraphModel dx="806" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="80" width="660" height="790" as="geometry"/>
+                </mxCell>
+                <object placeholders="1" c4Name="Usuario" c4Type="Person" c4Description="Empleado de la empresa con una cuenta" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="2">
+                    <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="1">
+                        <mxGeometry x="190" y="100" width="240" height="170" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Aplicación&lt;br&gt;&lt;/b&gt;&lt;/font&gt;Software del sistema&lt;br&gt;&lt;br&gt;Permite a los usuarios iniciar sesión, subir y buscar tópicos y anexos por medio de la aplicación." style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="395" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Sistema de subida de tópicos&lt;br&gt;&lt;/b&gt;&lt;/font&gt;Sistema de Software&lt;br&gt;&lt;br&gt;El sistema almacena todos los tópicos y anexos subidos por los usuarios." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="225" y="676" width="170" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="430" y="330" as="sourcePoint"/>
+                        <mxPoint x="480" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="305" y="380" width="10" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="160" width="10" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Usuarios" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="261" y="318" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="10" target="3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="310" y="660" as="sourcePoint"/>
+                        <mxPoint x="440" y="650" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="305" y="660" width="10" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Sistema de búsqueda de tópicos&lt;br&gt;&lt;/b&gt;&lt;/font&gt;Sistema de Software&lt;br&gt;&lt;br&gt;El sistema realizará una búsqueda de acuerdo al título del tópicos o anexo así como por categoría y autor." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="410" width="170" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Usuarios" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="262" y="619" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="485" width="10" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="13">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="440" y="530" as="sourcePoint"/>
+                        <mxPoint x="490" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="Búsqueda de tópico" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="465" width="66" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Diagrama de contexto&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="120" width="180" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
