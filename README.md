@@ -85,6 +85,9 @@ Software
 
   :busts_in_silhouette: [A3.3 Arquitectura usando Modelo C4](Docs/A3.3-Software-Architecture-through-the-C4-Model_Hector_Renteria_Zerox.md)
 
+  :busts_in_silhouette: [A3.4 Scrum Artefactos Planificacion Estimacion](Docs/A3.4Planning_and_estimation_phase_Artifacts_Hector_Renteria_Zerox.md)
+
+
 
 
 
